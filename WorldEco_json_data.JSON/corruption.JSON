@@ -1,0 +1,552 @@
+[
+    {
+      "country": "Denmark",
+      "annual_income": 68110,
+      "corruption_index": 12
+    },
+    {
+      "country": "Finland",
+      "annual_income": 53660,
+      "corruption_index": 12
+    },
+    {
+      "country": "New Zealand",
+      "annual_income": 45340,
+      "corruption_index": 12
+    },
+    {
+      "country": "Norway",
+      "annual_income": 84090,
+      "corruption_index": 15
+    },
+    {
+      "country": "Singapore",
+      "annual_income": 64010,
+      "corruption_index": 15
+    },
+    {
+      "country": "Sweden",
+      "annual_income": 58890,
+      "corruption_index": 15
+    },
+    {
+      "country": "Switzerland",
+      "annual_income": 90360,
+      "corruption_index": 16
+    },
+    {
+      "country": "Netherlands",
+      "annual_income": 56370,
+      "corruption_index": 18
+    },
+    {
+      "country": "Luxembourg",
+      "annual_income": 81110,
+      "corruption_index": 19
+    },
+    {
+      "country": "Germany",
+      "annual_income": 51040,
+      "corruption_index": 20
+    },
+    {
+      "country": "United Kingdom",
+      "annual_income": 45380,
+      "corruption_index": 22
+    },
+    {
+      "country": "Hong Kong",
+      "annual_income": 54450,
+      "corruption_index": 24
+    },
+    {
+      "country": "Austria",
+      "annual_income": 52210,
+      "corruption_index": 26
+    },
+    {
+      "country": "Canada",
+      "annual_income": 48310,
+      "corruption_index": 26
+    },
+    {
+      "country": "Estonia",
+      "annual_income": 25970,
+      "corruption_index": 26
+    },
+    {
+      "country": "Iceland",
+      "annual_income": 64410,
+      "corruption_index": 26
+    },
+    {
+      "country": "Ireland",
+      "annual_income": 74520,
+      "corruption_index": 26
+    },
+    {
+      "country": "Australia",
+      "annual_income": 56760,
+      "corruption_index": 27
+    },
+    {
+      "country": "Belgium",
+      "annual_income": 50510,
+      "corruption_index": 27
+    },
+    {
+      "country": "Japan",
+      "annual_income": 42620,
+      "corruption_index": 27
+    },
+    {
+      "country": "France",
+      "annual_income": 43880,
+      "corruption_index": 29
+    },
+    {
+      "country": "United Arab Emirates",
+      "annual_income": 39410,
+      "corruption_index": 31
+    },
+    {
+      "country": "United States",
+      "annual_income": 70430,
+      "corruption_index": 33
+    },
+    {
+      "country": "Qatar",
+      "annual_income": 57120,
+      "corruption_index": 37
+    },
+    {
+      "country": "Portugal",
+      "annual_income": 23730,
+      "corruption_index": 38
+    },
+    {
+      "country": "South Korea",
+      "annual_income": 34980,
+      "corruption_index": 38
+    },
+    {
+      "country": "Spain",
+      "annual_income": 29740,
+      "corruption_index": 39
+    },
+    {
+      "country": "Israel",
+      "annual_income": 49560,
+      "corruption_index": 41
+    },
+    {
+      "country": "Italy",
+      "annual_income": 35710,
+      "corruption_index": 44
+    },
+    {
+      "country": "Poland",
+      "annual_income": 16670,
+      "corruption_index": 44
+    },
+    {
+      "country": "Saudi Arabia",
+      "annual_income": 22270,
+      "corruption_index": 47
+    },
+    {
+      "country": "Greece",
+      "annual_income": 20140,
+      "corruption_index": 51
+    },
+    {
+      "country": "Malaysia",
+      "annual_income": 10930,
+      "corruption_index": 52
+    },
+    {
+      "country": "China",
+      "annual_income": 11890,
+      "corruption_index": 55
+    },
+    {
+      "country": "Romania",
+      "annual_income": 14170,
+      "corruption_index": 55
+    },
+    {
+      "country": "South Africa",
+      "annual_income": 6440,
+      "corruption_index": 56
+    },
+    {
+      "country": "India",
+      "annual_income": 2170,
+      "corruption_index": 60
+    },
+    {
+      "country": "Vietnam",
+      "annual_income": 3560,
+      "corruption_index": 61
+    },
+    {
+      "country": "Argentina",
+      "annual_income": 10050,
+      "corruption_index": 62
+    },
+    {
+      "country": "Brazil",
+      "annual_income": 7720,
+      "corruption_index": 62
+    },
+    {
+      "country": "Indonesia",
+      "annual_income": 4140,
+      "corruption_index": 62
+    },
+    {
+      "country": "Turkey",
+      "annual_income": 9830,
+      "corruption_index": 62
+    },
+    {
+      "country": "Sri Lanka",
+      "annual_income": 3820,
+      "corruption_index": 63
+    },
+    {
+      "country": "Ecuador",
+      "annual_income": 5930,
+      "corruption_index": 64
+    },
+    {
+      "country": "Thailand",
+      "annual_income": 7260,
+      "corruption_index": 65
+    },
+    {
+      "country": "El Salvador",
+      "annual_income": 4140,
+      "corruption_index": 66
+    },
+    {
+      "country": "Sierra Leone",
+      "annual_income": 510,
+      "corruption_index": 66
+    },
+    {
+      "country": "Algeria",
+      "annual_income": 3660,
+      "corruption_index": 67
+    },
+    {
+      "country": "Egypt",
+      "annual_income": 3510,
+      "corruption_index": 67
+    },
+    {
+      "country": "Nepal",
+      "annual_income": 1230,
+      "corruption_index": 67
+    },
+    {
+      "country": "Philippines",
+      "annual_income": 3640,
+      "corruption_index": 67
+    },
+    {
+      "country": "Zambia",
+      "annual_income": 1040,
+      "corruption_index": 67
+    },
+    {
+      "country": "Eswatini",
+      "annual_income": 3680,
+      "corruption_index": 68
+    },
+    {
+      "country": "Ukraine",
+      "annual_income": 4120,
+      "corruption_index": 68
+    },
+    {
+      "country": "Gabon",
+      "annual_income": 7100,
+      "corruption_index": 69
+    },
+    {
+      "country": "Mexico",
+      "annual_income": 9380,
+      "corruption_index": 69
+    },
+    {
+      "country": "Niger",
+      "annual_income": 590,
+      "corruption_index": 69
+    },
+    {
+      "country": "Papua New Guinea",
+      "annual_income": 2790,
+      "corruption_index": 69
+    },
+    {
+      "country": "Azerbaijan",
+      "annual_income": 4880,
+      "corruption_index": 70
+    },
+    {
+      "country": "Bolivia",
+      "annual_income": 3360,
+      "corruption_index": 70
+    },
+    {
+      "country": "Djibouti",
+      "annual_income": 3300,
+      "corruption_index": 70
+    },
+    {
+      "country": "Dominican Republic",
+      "annual_income": 8220,
+      "corruption_index": 70
+    },
+    {
+      "country": "Kenya",
+      "annual_income": 2010,
+      "corruption_index": 70
+    },
+    {
+      "country": "Laos",
+      "annual_income": 2520,
+      "corruption_index": 70
+    },
+    {
+      "country": "Paraguay",
+      "annual_income": 5340,
+      "corruption_index": 70
+    },
+    {
+      "country": "Togo",
+      "annual_income": 980,
+      "corruption_index": 70
+    },
+    {
+      "country": "Angola",
+      "annual_income": 1770,
+      "corruption_index": 71
+    },
+    {
+      "country": "Liberia",
+      "annual_income": 620,
+      "corruption_index": 71
+    },
+    {
+      "country": "Mali",
+      "annual_income": 870,
+      "corruption_index": 71
+    },
+    {
+      "country": "Russia",
+      "annual_income": 11600,
+      "corruption_index": 71
+    },
+    {
+      "country": "Burma",
+      "annual_income": 1140,
+      "corruption_index": 72
+    },
+    {
+      "country": "Mauritania",
+      "annual_income": 1730,
+      "corruption_index": 72
+    },
+    {
+      "country": "Pakistan",
+      "annual_income": 1500,
+      "corruption_index": 72
+    },
+    {
+      "country": "Uzbekistan",
+      "annual_income": 1960,
+      "corruption_index": 72
+    },
+    {
+      "country": "Cameroon",
+      "annual_income": 1590,
+      "corruption_index": 73
+    },
+    {
+      "country": "Kyrgyzstan",
+      "annual_income": 1180,
+      "corruption_index": 73
+    },
+    {
+      "country": "Uganda",
+      "annual_income": 840,
+      "corruption_index": 73
+    },
+    {
+      "country": "Bangladesh",
+      "annual_income": 2620,
+      "corruption_index": 74
+    },
+    {
+      "country": "Madagascar",
+      "annual_income": 500,
+      "corruption_index": 74
+    },
+    {
+      "country": "Mozambique",
+      "annual_income": 480,
+      "corruption_index": 74
+    },
+    {
+      "country": "Guatemala",
+      "annual_income": 4940,
+      "corruption_index": 75
+    },
+    {
+      "country": "Guinea",
+      "annual_income": 1010,
+      "corruption_index": 75
+    },
+    {
+      "country": "Iran",
+      "annual_income": 3370,
+      "corruption_index": 75
+    },
+    {
+      "country": "Tajikistan",
+      "annual_income": 1150,
+      "corruption_index": 75
+    },
+    {
+      "country": "Central Africa",
+      "annual_income": 530,
+      "corruption_index": 76
+    },
+    {
+      "country": "Lebanon",
+      "annual_income": 3450,
+      "corruption_index": 76
+    },
+    {
+      "country": "Nigeria",
+      "annual_income": 2100,
+      "corruption_index": 76
+    },
+    {
+      "country": "Cambodia",
+      "annual_income": 1550,
+      "corruption_index": 77
+    },
+    {
+      "country": "Honduras",
+      "annual_income": 2540,
+      "corruption_index": 77
+    },
+    {
+      "country": "Iraq",
+      "annual_income": 5040,
+      "corruption_index": 77
+    },
+    {
+      "country": "Zimbabwe",
+      "annual_income": 1400,
+      "corruption_index": 77
+    },
+    {
+      "country": "Eritrea",
+      "annual_income": 600,
+      "corruption_index": 78
+    },
+    {
+      "country": "Cape Verde",
+      "annual_income": 3330,
+      "corruption_index": 79
+    },
+    {
+      "country": "Congo",
+      "annual_income": 1630,
+      "corruption_index": 79
+    },
+    {
+      "country": "Chad",
+      "annual_income": 650,
+      "corruption_index": 80
+    },
+    {
+      "country": "Comoros",
+      "annual_income": 1460,
+      "corruption_index": 80
+    },
+    {
+      "country": "Haiti",
+      "annual_income": 1420,
+      "corruption_index": 80
+    },
+    {
+      "country": "Nicaragua",
+      "annual_income": 2010,
+      "corruption_index": 80
+    },
+    {
+      "country": "Sudan",
+      "annual_income": 670,
+      "corruption_index": 80
+    },
+    {
+      "country": "Burundi",
+      "annual_income": 240,
+      "corruption_index": 81
+    },
+    {
+      "country": "Congo (Dem. Republic)",
+      "annual_income": 580,
+      "corruption_index": 81
+    },
+    {
+      "country": "Turkmenistan",
+      "annual_income": 7220,
+      "corruption_index": 81
+    },
+    {
+      "country": "Equatorial Guinea",
+      "annual_income": 5810,
+      "corruption_index": 83
+    },
+    {
+      "country": "Libya",
+      "annual_income": 8430,
+      "corruption_index": 83
+    },
+    {
+      "country": "Afghanistan",
+      "annual_income": 500,
+      "corruption_index": 84
+    },
+    {
+      "country": "Yemen",
+      "annual_income": 670,
+      "corruption_index": 84
+    },
+    {
+      "country": "Venezuela",
+      "annual_income": 13080,
+      "corruption_index": 86
+    },
+    {
+      "country": "Somalia",
+      "annual_income": 450,
+      "corruption_index": 87
+    },
+    {
+      "country": "Syria",
+      "annual_income": 1170,
+      "corruption_index": 87
+    },
+    {
+      "country": "South Sudan",
+      "annual_income": 460,
+      "corruption_index": 89
+    }
+   ]
