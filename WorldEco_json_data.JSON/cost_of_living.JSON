@@ -1,0 +1,644 @@
+[
+    {
+      "country": "Bermuda",
+      "cost_index": 157.6,
+      "monthly_income": 9712,
+      "purchasing_power_index": 105
+    },
+    {
+      "country": "Switzerland",
+      "cost_index": 142.4,
+      "monthly_income": 7530,
+      "purchasing_power_index": 90.1
+    },
+    {
+      "country": "Cayman Islands",
+      "cost_index": 137.9,
+      "monthly_income": 5281,
+      "purchasing_power_index": 65.2
+    },
+    {
+      "country": "Israel",
+      "cost_index": 130.2,
+      "monthly_income": 4130,
+      "purchasing_power_index": 54.1
+    },
+    {
+      "country": "Iceland",
+      "cost_index": 128,
+      "monthly_income": 5368,
+      "purchasing_power_index": 71.5
+    },
+    {
+      "country": "New Caledonia",
+      "cost_index": 125.8,
+      "monthly_income": 1101,
+      "purchasing_power_index": 14.9
+    },
+    {
+      "country": "Turks and Caicos Islands",
+      "cost_index": 124.6,
+      "monthly_income": 1967,
+      "purchasing_power_index": 26.9
+    },
+    {
+      "country": "Norway",
+      "cost_index": 124.6,
+      "monthly_income": 7008,
+      "purchasing_power_index": 95.9
+    },
+    {
+      "country": "Barbados",
+      "cost_index": 121.5,
+      "monthly_income": 1393,
+      "purchasing_power_index": 19.5
+    },
+    {
+      "country": "Denmark",
+      "cost_index": 119.9,
+      "monthly_income": 5676,
+      "purchasing_power_index": 80.6
+    },
+    {
+      "country": "Ireland",
+      "cost_index": 119.8,
+      "monthly_income": 6210,
+      "purchasing_power_index": 88.3
+    },
+    {
+      "country": "Australia",
+      "cost_index": 118,
+      "monthly_income": 4730,
+      "purchasing_power_index": 68.3
+    },
+    {
+      "country": "New Zealand",
+      "cost_index": 117.2,
+      "monthly_income": 3778,
+      "purchasing_power_index": 54.9
+    },
+    {
+      "country": "Luxembourg",
+      "cost_index": 113.1,
+      "monthly_income": 6759,
+      "purchasing_power_index": 101.8
+    },
+    {
+      "country": "Sweden",
+      "cost_index": 109.3,
+      "monthly_income": 4908,
+      "purchasing_power_index": 76.5
+    },
+    {
+      "country": "Finland",
+      "cost_index": 108,
+      "monthly_income": 4472,
+      "purchasing_power_index": 70.6
+    },
+    {
+      "country": "United Kingdom",
+      "cost_index": 107.9,
+      "monthly_income": 3782,
+      "purchasing_power_index": 59.7
+    },
+    {
+      "country": "Canada",
+      "cost_index": 105.6,
+      "monthly_income": 4026,
+      "purchasing_power_index": 64.9
+    },
+    {
+      "country": "Japan",
+      "cost_index": 101.9,
+      "monthly_income": 3552,
+      "purchasing_power_index": 59.4
+    },
+    {
+      "country": "United States",
+      "cost_index": 100,
+      "monthly_income": 5869,
+      "purchasing_power_index": 100
+    },
+    {
+      "country": "Netherlands",
+      "cost_index": 99,
+      "monthly_income": 4698,
+      "purchasing_power_index": 80.8
+    },
+    {
+      "country": "Belgium",
+      "cost_index": 97,
+      "monthly_income": 4209,
+      "purchasing_power_index": 74
+    },
+    {
+      "country": "France",
+      "cost_index": 96.2,
+      "monthly_income": 3657,
+      "purchasing_power_index": 64.7
+    },
+    {
+      "country": "Austria",
+      "cost_index": 95.9,
+      "monthly_income": 4351,
+      "purchasing_power_index": 77.3
+    },
+    {
+      "country": "Germany",
+      "cost_index": 92.3,
+      "monthly_income": 4253,
+      "purchasing_power_index": 78.5
+    },
+    {
+      "country": "South Korea",
+      "cost_index": 87,
+      "monthly_income": 2915,
+      "purchasing_power_index": 57.1
+    },
+    {
+      "country": "Italy",
+      "cost_index": 86.2,
+      "monthly_income": 2976,
+      "purchasing_power_index": 58.8
+    },
+    {
+      "country": "Spain",
+      "cost_index": 82.9,
+      "monthly_income": 2478,
+      "purchasing_power_index": 50.9
+    },
+    {
+      "country": "Hong Kong",
+      "cost_index": 77.9,
+      "monthly_income": 4538,
+      "purchasing_power_index": 99.2
+    },
+    {
+      "country": "Portugal",
+      "cost_index": 76.4,
+      "monthly_income": 1978,
+      "purchasing_power_index": 44.1
+    },
+    {
+      "country": "Malta",
+      "cost_index": 75.7,
+      "monthly_income": 2547,
+      "purchasing_power_index": 57.3
+    },
+    {
+      "country": "Singapore",
+      "cost_index": 75,
+      "monthly_income": 5334,
+      "purchasing_power_index": 121.1
+    },
+    {
+      "country": "Macao",
+      "cost_index": 75,
+      "monthly_income": 3894,
+      "purchasing_power_index": 88.5
+    },
+    {
+      "country": "Greece",
+      "cost_index": 74.7,
+      "monthly_income": 1678,
+      "purchasing_power_index": 38.3
+    },
+    {
+      "country": "Estonia",
+      "cost_index": 74,
+      "monthly_income": 2164,
+      "purchasing_power_index": 49.8
+    },
+    {
+      "country": "United Arab Emirates",
+      "cost_index": 72.3,
+      "monthly_income": 3284,
+      "purchasing_power_index": 77.3
+    },
+    {
+      "country": "Qatar",
+      "cost_index": 71.4,
+      "monthly_income": 4760,
+      "purchasing_power_index": 113.6
+    },
+    {
+      "country": "Czechia",
+      "cost_index": 68.1,
+      "monthly_income": 2006,
+      "purchasing_power_index": 50.2
+    },
+    {
+      "country": "Iran",
+      "cost_index": 67.6,
+      "monthly_income": 281,
+      "purchasing_power_index": 7.1
+    },
+    {
+      "country": "China",
+      "cost_index": 63.2,
+      "monthly_income": 991,
+      "purchasing_power_index": 26.7
+    },
+    {
+      "country": "Chile",
+      "cost_index": 62.9,
+      "monthly_income": 1250,
+      "purchasing_power_index": 33.8
+    },
+    {
+      "country": "Croatia",
+      "cost_index": 60.8,
+      "monthly_income": 1429,
+      "purchasing_power_index": 40.1
+    },
+    {
+      "country": "Haiti",
+      "cost_index": 60.1,
+      "monthly_income": 118,
+      "purchasing_power_index": 3.4
+    },
+    {
+      "country": "Costa Rica",
+      "cost_index": 57.7,
+      "monthly_income": 1026,
+      "purchasing_power_index": 30.3
+    },
+    {
+      "country": "Hungary",
+      "cost_index": 57.3,
+      "monthly_income": 1478,
+      "purchasing_power_index": 44
+    },
+    {
+      "country": "Equatorial Guinea",
+      "cost_index": 55.9,
+      "monthly_income": 484,
+      "purchasing_power_index": 14.8
+    },
+    {
+      "country": "Mexico",
+      "cost_index": 54.7,
+      "monthly_income": 782,
+      "purchasing_power_index": 24.4
+    },
+    {
+      "country": "Albania",
+      "cost_index": 52,
+      "monthly_income": 509,
+      "purchasing_power_index": 16.7
+    },
+    {
+      "country": "Ecuador",
+      "cost_index": 51.9,
+      "monthly_income": 494,
+      "purchasing_power_index": 16.2
+    },
+    {
+      "country": "Serbia",
+      "cost_index": 51.2,
+      "monthly_income": 703,
+      "purchasing_power_index": 23.4
+    },
+    {
+      "country": "Montenegro",
+      "cost_index": 51.2,
+      "monthly_income": 775,
+      "purchasing_power_index": 25.8
+    },
+    {
+      "country": "Poland",
+      "cost_index": 51.1,
+      "monthly_income": 1389,
+      "purchasing_power_index": 46.3
+    },
+    {
+      "country": "Bahrain",
+      "cost_index": 49,
+      "monthly_income": 1661,
+      "purchasing_power_index": 57.7
+    },
+    {
+      "country": "Brunei",
+      "cost_index": 48.9,
+      "monthly_income": 2626,
+      "purchasing_power_index": 91.4
+    },
+    {
+      "country": "Bulgaria",
+      "cost_index": 47.5,
+      "monthly_income": 893,
+      "purchasing_power_index": 32
+    },
+    {
+      "country": "Romania",
+      "cost_index": 47.4,
+      "monthly_income": 1181,
+      "purchasing_power_index": 42.4
+    },
+    {
+      "country": "South Africa",
+      "cost_index": 47.1,
+      "monthly_income": 537,
+      "purchasing_power_index": 19.4
+    },
+    {
+      "country": "Brazil",
+      "cost_index": 46.9,
+      "monthly_income": 643,
+      "purchasing_power_index": 23.4
+    },
+    {
+      "country": "Morocco",
+      "cost_index": 45,
+      "monthly_income": 279,
+      "purchasing_power_index": 10.6
+    },
+    {
+      "country": "Saudi Arabia",
+      "cost_index": 44.5,
+      "monthly_income": 1856,
+      "purchasing_power_index": 71.1
+    },
+    {
+      "country": "Mauritius",
+      "cost_index": 43.3,
+      "monthly_income": 905,
+      "purchasing_power_index": 35.6
+    },
+    {
+      "country": "Ivory Coast",
+      "cost_index": 42.7,
+      "monthly_income": 204,
+      "purchasing_power_index": 8.2
+    },
+    {
+      "country": "Kenya",
+      "cost_index": 42.3,
+      "monthly_income": 168,
+      "purchasing_power_index": 6.7
+    },
+    {
+      "country": "Cameroon",
+      "cost_index": 41.9,
+      "monthly_income": 133,
+      "purchasing_power_index": 5.4
+    },
+    {
+      "country": "Timor-Leste",
+      "cost_index": 41.9,
+      "monthly_income": 162,
+      "purchasing_power_index": 6.6
+    },
+    {
+      "country": "Colombia",
+      "cost_index": 41.9,
+      "monthly_income": 513,
+      "purchasing_power_index": 20.9
+    },
+    {
+      "country": "Nigeria",
+      "cost_index": 41.8,
+      "monthly_income": 175,
+      "purchasing_power_index": 7.1
+    },
+    {
+      "country": "Kosovo",
+      "cost_index": 41,
+      "monthly_income": 414,
+      "purchasing_power_index": 17.2
+    },
+    {
+      "country": "Philippines",
+      "cost_index": 40.9,
+      "monthly_income": 303,
+      "purchasing_power_index": 12.6
+    },
+    {
+      "country": "Lesotho",
+      "cost_index": 39.3,
+      "monthly_income": 106,
+      "purchasing_power_index": 4.6
+    },
+    {
+      "country": "Bangladesh",
+      "cost_index": 39,
+      "monthly_income": 218,
+      "purchasing_power_index": 9.5
+    },
+    {
+      "country": "Malaysia",
+      "cost_index": 38.8,
+      "monthly_income": 911,
+      "purchasing_power_index": 40
+    },
+    {
+      "country": "Paraguay",
+      "cost_index": 38.6,
+      "monthly_income": 445,
+      "purchasing_power_index": 19.6
+    },
+    {
+      "country": "Moldova",
+      "cost_index": 38.5,
+      "monthly_income": 455,
+      "purchasing_power_index": 20.1
+    },
+    {
+      "country": "Thailand",
+      "cost_index": 38.4,
+      "monthly_income": 605,
+      "purchasing_power_index": 26.8
+    },
+    {
+      "country": "Benin",
+      "cost_index": 37.5,
+      "monthly_income": 114,
+      "purchasing_power_index": 5.2
+    },
+    {
+      "country": "Ghana",
+      "cost_index": 37.3,
+      "monthly_income": 197,
+      "purchasing_power_index": 9
+    },
+    {
+      "country": "Russia",
+      "cost_index": 36.9,
+      "monthly_income": 967,
+      "purchasing_power_index": 44.7
+    },
+    {
+      "country": "Iraq",
+      "cost_index": 36.8,
+      "monthly_income": 420,
+      "purchasing_power_index": 19.5
+    },
+    {
+      "country": "Cambodia",
+      "cost_index": 36.6,
+      "monthly_income": 129,
+      "purchasing_power_index": 6
+    },
+    {
+      "country": "Bolivia",
+      "cost_index": 36.2,
+      "monthly_income": 280,
+      "purchasing_power_index": 13.2
+    },
+    {
+      "country": "Nicaragua",
+      "cost_index": 35.8,
+      "monthly_income": 168,
+      "purchasing_power_index": 8
+    },
+    {
+      "country": "Indonesia",
+      "cost_index": 35.4,
+      "monthly_income": 345,
+      "purchasing_power_index": 16.6
+    },
+    {
+      "country": "Mongolia",
+      "cost_index": 35.3,
+      "monthly_income": 313,
+      "purchasing_power_index": 15.1
+    },
+    {
+      "country": "Suriname",
+      "cost_index": 35,
+      "monthly_income": 370,
+      "purchasing_power_index": 18
+    },
+    {
+      "country": "Vietnam",
+      "cost_index": 34.4,
+      "monthly_income": 297,
+      "purchasing_power_index": 14.7
+    },
+    {
+      "country": "Turkey",
+      "cost_index": 34.4,
+      "monthly_income": 819,
+      "purchasing_power_index": 40.6
+    },
+    {
+      "country": "Tanzania",
+      "cost_index": 34.1,
+      "monthly_income": 95,
+      "purchasing_power_index": 4.7
+    },
+    {
+      "country": "Armenia",
+      "cost_index": 33.8,
+      "monthly_income": 380,
+      "purchasing_power_index": 19.2
+    },
+    {
+      "country": "Laos",
+      "cost_index": 33.5,
+      "monthly_income": 210,
+      "purchasing_power_index": 10.7
+    },
+    {
+      "country": "Kazakhstan",
+      "cost_index": 33.1,
+      "monthly_income": 727,
+      "purchasing_power_index": 37.4
+    },
+    {
+      "country": "Georgia",
+      "cost_index": 32.2,
+      "monthly_income": 395,
+      "purchasing_power_index": 20.9
+    },
+    {
+      "country": "Zambia",
+      "cost_index": 31.7,
+      "monthly_income": 87,
+      "purchasing_power_index": 4.7
+    },
+    {
+      "country": "Tunisia",
+      "cost_index": 30.9,
+      "monthly_income": 303,
+      "purchasing_power_index": 16.7
+    },
+    {
+      "country": "Sri Lanka",
+      "cost_index": 30.4,
+      "monthly_income": 318,
+      "purchasing_power_index": 17.8
+    },
+    {
+      "country": "Bhutan",
+      "cost_index": 30,
+      "monthly_income": 237,
+      "purchasing_power_index": 13.4
+    },
+    {
+      "country": "Ukraine",
+      "cost_index": 29.9,
+      "monthly_income": 343,
+      "purchasing_power_index": 19.6
+    },
+    {
+      "country": "Algeria",
+      "cost_index": 29.9,
+      "monthly_income": 305,
+      "purchasing_power_index": 17.4
+    },
+    {
+      "country": "Azerbaijan",
+      "cost_index": 29.8,
+      "monthly_income": 407,
+      "purchasing_power_index": 23.3
+    },
+    {
+      "country": "India",
+      "cost_index": 28.8,
+      "monthly_income": 181,
+      "purchasing_power_index": 10.7
+    },
+    {
+      "country": "Nepal",
+      "cost_index": 28.1,
+      "monthly_income": 103,
+      "purchasing_power_index": 6.2
+    },
+    {
+      "country": "Egypt",
+      "cost_index": 27.2,
+      "monthly_income": 293,
+      "purchasing_power_index": 18.3
+    },
+    {
+      "country": "Burma",
+      "cost_index": 27,
+      "monthly_income": 95,
+      "purchasing_power_index": 6
+    },
+    {
+      "country": "Pakistan",
+      "cost_index": 25.8,
+      "monthly_income": 125,
+      "purchasing_power_index": 8.3
+    },
+    {
+      "country": "Kyrgyzstan",
+      "cost_index": 25.3,
+      "monthly_income": 98,
+      "purchasing_power_index": 6.6
+    },
+    {
+      "country": "Angola",
+      "cost_index": 23,
+      "monthly_income": 148,
+      "purchasing_power_index": 10.9
+    },
+    {
+      "country": "Tajikistan",
+      "cost_index": 22.8,
+      "monthly_income": 96,
+      "purchasing_power_index": 7.2
+    }
+   ]
