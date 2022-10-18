@@ -1,0 +1,41 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A bar chart showing the US population distribution of age groups in 2000.",
+  "data": { "url": "https://raw.githubusercontent.com/AngusLiangMonash/WorldEconomics-FIT3179-Asgn2/main/WorldEco_data/corruption.csv"},
+  "vconcat": [
+    {
+    "width": 800,
+    "height": 150,
+    "transform": [{"filter": "datum.annual_income > 5000"}],
+  
+    "mark": "bar",
+    "encoding": {
+      "x": {"field": "country", "type": "nominal", "title": null},
+      "y": {
+        "field": "annual_income", "type": "quantitative", "title": "Annual Income (> 5000 USD)"
+    },
+    "color": {"field": "corruption_index", "type": "quantitative", "scale": {"scheme": "yellowgreenblue"}, "legend": {"direction": "vertical", "title": "Corruption Index"}}
+    
+  }
+    },
+    {
+      "width": 800,
+      "height": 120,
+      "transform": [{"filter": "datum.annual_income < 5000"}],
+      "mark": "bar",
+      "encoding": {
+        "x": {"field": "country", "type": "nominal", "title": null},
+        "y": {
+        "field": "annual_income", 
+        "type": "quantitative", 
+        "title": "Annual Income (< 5000 USD)"},
+        "color": {"field": "corruption_index", "type": "quantitative"}
+      }
+    }
+    ]
+
+}
+
+
+  
+  

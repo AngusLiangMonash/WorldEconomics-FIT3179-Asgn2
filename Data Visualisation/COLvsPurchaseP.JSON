@@ -1,0 +1,16 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A scatterplot showing horsepower and miles per gallons for various cars.",
+    "data": {"url": "https://raw.githubusercontent.com/AngusLiangMonash/WorldEconomics-FIT3179-Asgn2/main/WorldEco_data/cost_of_living.csv"},
+    "mark": {"type":"circle", "size": 120},
+    "width": 800,
+    "height": 500,
+    
+    "encoding": {
+      "x": {"title": "Purchasing Power Index","field": "purchasing_power_index", "type": "quantitative"},
+      "y": {"title": "Cost Index","field": "cost_index", "type": "quantitative"},
+      "color": {"field": "monthly_income", "type": "quantitative"}
+   
+    }
+  }
+  
