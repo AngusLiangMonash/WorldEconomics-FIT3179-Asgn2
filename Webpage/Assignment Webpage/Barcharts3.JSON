@@ -1,0 +1,20 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A bar chart showing the US population distribution of age groups in 2000.",
+    "data": { "url": "https://raw.githubusercontent.com/AngusLiangMonash/WorldEconomics-FIT3179-Asgn2/main/WorldEco_data/richest_countries.csv"},
+    "width": 800,
+    "height": 350,
+  
+    "mark": "bar",
+    "encoding": {
+      "x": {"field": "country", "type": "nominal", "title": null},
+      "y": {
+        "field": "gdp_per_capita", "type": "quantitative", "title": "GPD Per Capita (USD)"
+    },
+    "tooltip": [
+          {"field": "country", "type": "nominal", "title": "Country"},
+          {"field": "gdp_per_capita", "type": "quantitative", "title": "GPD Per Capita (USD)"}
+        ]
+  
+    }
+  }

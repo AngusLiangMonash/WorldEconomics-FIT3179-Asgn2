@@ -1,0 +1,38 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A bar chart showing the US population distribution of age groups in 2000.",
+    "data": { "url": "https://raw.githubusercontent.com/AngusLiangMonash/WorldEconomics-FIT3179-Asgn2/main/WorldEco_data/cost_of_living.csv"},
+    "vconcat": [
+      {
+      "width": 800,
+      "height": 150,
+      "transform": [{"filter": "datum.cost_index >= 50"}],
+    
+      "mark": "bar",
+      "encoding": {
+        "x": {"field": "country", "type": "nominal", "title": null},
+        "y": {
+          "field": "cost_index", "type": "quantitative", "title": "Cost Index (>50)"
+      },
+      "color": {"field": "purchasing_power_index", "type": "quantitative", "scale": {"scheme": "blues"}, "legend": {"direction": "vertical", "title": "Purchasing Power Index"}}
+      
+    }
+      },
+      {
+        "width": 800,
+        "height": 120,
+        "transform": [{"filter": "datum.cost_index < 50"}],
+        "mark": "bar",
+        "encoding": {
+          "x": {"field": "country", "type": "nominal", "title": null},
+          "y": {
+          "field": "cost_index", 
+          "type": "quantitative", 
+          "title": "Cost Index (< 50)"},
+          "color": {"field": "purchasing_power_index", "type": "quantitative"}
+        }
+      }
+      ]
+  
+  }
+  
